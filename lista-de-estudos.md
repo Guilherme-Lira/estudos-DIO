@@ -1,9 +1,9 @@
-#Lista de Estudos
+# Lista de Estudos
 
-##Bootcamp Fullstack Santander
+#### Bootcamp Fullstack Santander
 
-#- [x] Git/GitHub
-#- [ ] HTML/CSS3/JS
-#- [ ] Angular
-#- [ ] JAVA
-#- [ ] Spring Framework
+- [x] Git/GitHub
+- [ ] HTML/CSS3/JS
+- [ ] Angular
+- [ ] JAVA
+- [ ] Spring Framework
